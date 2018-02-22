@@ -1,0 +1,7 @@
+C:\Users\root\source\repos\JG_DatabaseAssignment\JG_DatabaseAssignment\bin\Debug\JG_DatabaseAssignment.exe.config
+C:\Users\root\source\repos\JG_DatabaseAssignment\JG_DatabaseAssignment\bin\Debug\JG_DatabaseAssignment.exe
+C:\Users\root\source\repos\JG_DatabaseAssignment\JG_DatabaseAssignment\bin\Debug\JG_DatabaseAssignment.pdb
+C:\Users\root\source\repos\JG_DatabaseAssignment\JG_DatabaseAssignment\obj\Debug\JG_DatabaseAssignment.csprojResolveAssemblyReference.cache
+C:\Users\root\source\repos\JG_DatabaseAssignment\JG_DatabaseAssignment\obj\Debug\JG_DatabaseAssignment.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\JG_DatabaseAssignment\JG_DatabaseAssignment\obj\Debug\JG_DatabaseAssignment.exe
+C:\Users\root\source\repos\JG_DatabaseAssignment\JG_DatabaseAssignment\obj\Debug\JG_DatabaseAssignment.pdb
