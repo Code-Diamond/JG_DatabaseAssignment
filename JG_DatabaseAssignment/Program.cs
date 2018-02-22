@@ -19,8 +19,6 @@ namespace JG_DBAssignment
         public static void Main(string[] args)
         {
             // Variables for the Main's scope
-
-            // Initially created by Jamin Ghata  2/8/2018 
             Console.WriteLine("Welcome to SSMS_DB_Application!\n\n");
 
             // Loop
